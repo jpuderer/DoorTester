@@ -1,0 +1,12 @@
+# Ignore everything from Android Studio.  Include only the
+# gradle build stuff
+
+.DS_Store
+.gradle
+.idea/
+*.iml
+*.img
+build/
+app/build
+local.properties
+
