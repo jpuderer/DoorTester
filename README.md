@@ -5,7 +5,7 @@ Overview
 --------------
 
 This project contains sample code for a project of mine, where I reversed engineered
-an electronic door lock, and modified it so I could control over Bluetooth-LE using 
+an electronic door lock, and modified it so I could control it over Bluetooth-LE using 
 a Bluno Beetle (Arduino compatible) board.
 
 The Android source is largely copied verbatim from the BlunoBasicDemo, and was used to quickly
@@ -17,7 +17,7 @@ I don't endorse quality of the code in anyway, in fact I consider the quality to
 This app was just to get used to test the hardware.
 
 You can find more details (as well as a final version of the application) here:
-http://www.jpuderer.net/2015/09/my-fancy-bluetooth-le-operated-door-lock.html
+http://www.jpuderer.net/2015/12/my-fancy-bluetooth-le-operated-door-lock.html
 
 This project contains both the Android application source, and the Arduino source.
 
